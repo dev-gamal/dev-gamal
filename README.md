@@ -40,17 +40,9 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-gamal&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-gamal&show_icons=true&include_all_commits=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-gamal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<picture data-importer="pacman" align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-gamal/dev-gamal/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dev-gamal/dev-gamal/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dev-gamal/dev-gamal/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
 
 ###
 
@@ -70,16 +62,4 @@
 
 <div data-importer="profile-views" align="center">
   <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=dev-gamal.dev-gamal&"  />
-</div>
-
-###
-
-<div align="center">
-  <img data-importer="snake" src="https://raw.githubusercontent.com/dev-gamal/dev-gamal/snake-output/snake.svg" alt="Snake animation" />
-</div>
-
-###
-
-<div data-importer="music" align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=3" alt="Spotify recently played"  />
 </div>
